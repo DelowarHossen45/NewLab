@@ -9,5 +9,6 @@ void subtraction(){
 int main()
 {
 	int a,b,c;
+
 	subtraction();
 }
