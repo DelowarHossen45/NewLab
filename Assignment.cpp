@@ -7,6 +7,7 @@ void MUL()
 	cout<<"Enter Two Variable:"<<endl;
 	cin>>var1>>var2;
 	cout<< var1*var2<<endl;
+	
 }
 int main()
 {
